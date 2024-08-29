@@ -134,7 +134,6 @@
 				<Item Name="ParseXMLFragments.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/ParseXMLFragments.vi"/>
 				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
 				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
-				<Item Name="Pelobuttons_lib_Pelobuttons.lvlib" Type="Library" URL="/&lt;vilib&gt;/Peloton/Pelobuttons/Pelobuttons_lib_Pelobuttons.lvlib"/>
 				<Item Name="Peloton_lib_DCFG Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/Peloton/Peloton Config/DCFG Framework/Peloton_lib_DCFG Framework.lvlib"/>
 				<Item Name="Read From XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(array).vi"/>
 				<Item Name="Read From XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(string).vi"/>
@@ -195,8 +194,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="Rename as Application Shared.lvlib" Type="Library" URL="../Libraries/Rename As Application Shared/Rename as Application Shared.lvlib"/>
-			<Item Name="Rename As Application UI.lvlib" Type="Library" URL="../Libraries/Rename As Application UI/Rename As Application UI.lvlib"/>
 			<Item Name="Test Acquisition API.vi" Type="VI" URL="../Libraries/Acquisition/Test Acquisition API.vi"/>
 			<Item Name="Test CML UI API.vi" Type="VI" URL="../Libraries/CML UI/Test CML UI API.vi"/>
 			<Item Name="Test Logger API.vi" Type="VI" URL="../Libraries/Logger/Test Logger API.vi"/>
